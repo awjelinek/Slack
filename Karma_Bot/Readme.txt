@@ -1,5 +1,5 @@
 Current call commands:
- example item key: @xephos
- Vote up: @xephos++
- Vote down: @xephos--
- Check Karma: karma value @xephos 
+ example item key: @johnsmith
+ Vote up: @johnsmith++
+ Vote down: @johnsmith--
+ Check Karma: karma value @johnsmith
