@@ -10,11 +10,11 @@ This is basically a Slack bot to track karma using a REDIS database as a storage
   </ol>
 </p>
 As for funcitons within the chat:
-<h3>Lets take an example of "@xephos"</h3>
+<h3>Lets take an example of "@johnsmith"</h3>
 <ul>
-  <li>To up vote: @xephos++</li>
-  <li>To down vote: @xephos--</li>
-  <li>To check karma: karma value @xephos</li>
+  <li>To up vote: @johnsmith++</li>
+  <li>To down vote: @johnsmith--</li>
+  <li>To check karma: karma value @johnsmith</li>
 </ul>
 <h3>Function Refrence</h3>
 <h4>module.exports</h4>
